@@ -1,0 +1,8 @@
+path: '/content/gdrive/My Drive/PersonalProtectionDetection/data'
+train: images/train
+val: images/val
+
+
+nc: 7
+names: ['boots', 'gloves', 'hard-hat', 'mask', 'person', 'ppe-suit', 'vest']
+
